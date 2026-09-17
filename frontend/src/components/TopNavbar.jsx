@@ -104,7 +104,7 @@ export default function TopNavbar({
           {profileOpen && (
             <div className="avatar-dropdown-menu">
               <div className="dropdown-user-info">
-                <div className="user-name">Zahid Bilal</div>
+                <div className="user-name">Zahid Bangash</div>
                 <div className="user-role">Research Director · FYP Lead</div>
               </div>
               <div className="dropdown-divider" />

@@ -254,5 +254,5 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/zahidbangash1/ReserachAgent-Multi-agent-workflow-/issues).
 
 <div align="center">
-Developed with ❤️ by <a href="https://github.com/zahidbangash1">Zahid Bilal</a>
+Developed with ❤️ by <a href="https://github.com/zahidbangash1">Zahid Bangash</a>
 </div>
